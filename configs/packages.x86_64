@@ -1,5 +1,4 @@
 # hardware
-pv
 edk2-shell
 syslinux
 efibootmgr
@@ -13,10 +12,11 @@ base-devel
 linux
 linux-firmware
 sof-firmware
+pv
+nbd
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
-nbd
 
 # network
 networkmanager
